@@ -2,3 +2,5 @@
 proxy
 adder
 tiny
+**/test/
+**/.vscode/
